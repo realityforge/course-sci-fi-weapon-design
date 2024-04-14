@@ -1,3 +1,3 @@
-# Coursework for "Creating Custom Decals for Games"
+# Coursework for "SciFi Weapon Design in Blender"
 
-This contains the projects used for the course [Creating Custom Decals for Games](https://www.artstation.com/marketplace/p/50wPW/creating-custom-decals-for-games-in-depth-tutorial-course).
+This contains the projects used for the course [SciFi Weapon Design in Blender](https://www.udemy.com/course/draft/3385004/).
