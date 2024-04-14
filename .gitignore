@@ -1,0 +1,8 @@
+/.idea
+/*.iml
+# Local temp directories
+**/tmp/*
+
+# Ignore the Blender autosaves
+**/*.blend?
+**/*.blend??
